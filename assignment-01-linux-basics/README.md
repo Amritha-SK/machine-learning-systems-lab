@@ -17,7 +17,6 @@ This was a guided university laboratory exercise introducing basic Linux termina
 * Learning the basic syntax of the `scp` command
 
 ## What I Learned
-
 This exercise introduced me to controlling a Linux computer through typed commands rather than a graphical interface.
 
 It also introduced Git, which is used to record and manage changes made to project files.
